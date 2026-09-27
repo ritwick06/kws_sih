@@ -1,0 +1,6 @@
+speaker_id,gender,age_group,native_language,consent,created_at
+spk001,male,19,indian,yes,2026-09-24T14:11:27
+spk002,f,20,ind,yes,2026-09-24T14:29:03
+spk003,male,20,ind,yes,2026-09-24T14:48:44
+spk004,m,20,ind,yes,2026-09-24T14:56:14
+spk005,m,20,ind,yes,2026-09-24T15:18:58
